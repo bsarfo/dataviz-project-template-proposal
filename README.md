@@ -4,7 +4,7 @@ This project analyses BMW sales data from 2010 to 2024 to uncover sales patterns
 This work is part of my data visualisation project, where I will develop prototypes, iterate on sketches, and eventually deliver an interactive visualisation dashboard.
 ## Data
 
-The dataset used is BMW Sales Data (2010–2024) with 50,000 entries. It is provided in CSV format for this course. Comparable public datasets also exist (e.g., BMW Sales 2010–2024 on Kaggle
+The dataset used is the BMW Sales Data (2010–2024), comprising 50,000 entries. It is provided in CSV format for this course. Comparable public datasets also exist (e.g., BMW Sales 2010–2024 on Kaggle
 ).
 
 Key Fields
@@ -56,10 +56,9 @@ Strategic Insights – What lessons can BMW’s marketing team draw from these p
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 
+](https://vizhub.com/bsarfo/43162b9dad6b482a9f8481048969f608?file=data.js)
 ## Prototypes
 
 Planned Visualizations for BMW Data
