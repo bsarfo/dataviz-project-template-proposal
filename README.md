@@ -13,7 +13,7 @@ Year – Sales year (2010–2024).
 
 Model – Specific BMW model sold.
 
-Region – Geographic sales area (Asia, North America, etc.).
+Region – Geographic sales area (Asia, North America, Africa, Europe, and Middle East).
 
 Color – Vehicle color preference.
 
@@ -56,9 +56,7 @@ Strategic Insights – What lessons can BMW’s marketing team draw from these p
 
 ## Sketches
 
-
-
-](https://vizhub.com/bsarfo/43162b9dad6b482a9f8481048969f608?file=data.js)
+(https://vizhub.com/bsarfo/43162b9dad6b482a9f8481048969f608?file=data.js)
 ## Prototypes
 
 Planned Visualizations for BMW Data
