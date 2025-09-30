@@ -70,6 +70,7 @@ Stacked Bar Chart – Sales volume breakdown by region.
 Scatter Plot – Engine size vs. price, colored by sales classification.
 
 Interactive Prototype (VizHub)
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/c76e550aa59893049b50a2c37985022266f2198c/bar%20chart.png)
 
 I also developed an interactive bar chart (using a population dataset) on VizHub to experiment with hover-tooltips and clickable bars:
 👉 Interactive Bar Chart Prototype
