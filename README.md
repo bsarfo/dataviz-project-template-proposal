@@ -80,7 +80,7 @@ to the ineffectiveness of my data development, as can be seen below.
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/32377794002064dba9f9b276dfbf08f2905a27d8/BMW%20SALES%20STACKED%20BAR%20CHART%201.png)
 
 This interaction model will later be applied to BMW sales data (e.g., hovering to see sales volumes, filtering by region or model).
-
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/stacked%20bar%20chart%202.png?raw=true)
 
 ## Open Questions
 
