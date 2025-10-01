@@ -78,10 +78,10 @@ I also developed an interactive bar chart (using a population dataset) on VizHub
 My week six sketch is a build-up of what I did in week 5. Two stacked bar charts were developed, and one is clickable. Week six improvement adds 
 to the ineffectiveness of my data development, as can be seen below.
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/32377794002064dba9f9b276dfbf08f2905a27d8/BMW%20SALES%20STACKED%20BAR%20CHART%201.png)
-
+https://vizhub.com/bsarfo/55c352b9e2cc4c3682d7c42667d8b47b?file=data.csv&tabs=data.csv%7EREADME.md
 This interaction model will later be applied to BMW sales data (e.g., hovering to see sales volumes, filtering by region or model).
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/stacked%20bar%20chart%202.png?raw=true)
-
+https://vizhub.com/bsarfo/50b293e1fb584805808ced58b1025468
 ## Open Questions
 
 I am confident about the direction of the project, but I do have a few concerns. Since the dataset is synthetic, I’m not sure how realistic some fields (like mileage or sales classification) are, which may affect the authenticity of insights. I also want to explore regional differences, but I may not have access to detailed geographic shapes or data for mapping. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
