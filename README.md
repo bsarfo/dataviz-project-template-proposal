@@ -56,6 +56,7 @@ Strategic Insights – What lessons can BMW’s marketing team draw from these p
 
 ## Sketches
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/sketch%20of%20clickable%20stacked%20barchart.png?raw=true)
+This is a foundational sketch of BMW sales in the major populated countries representing each of the seven continents in the world.
 (https://vizhub.com/bsarfo/43162b9dad6b482a9f8481048969f608?file=data.js)
 ## Prototypes
 
@@ -73,7 +74,9 @@ Interactive Prototype (VizHub)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/c76e550aa59893049b50a2c37985022266f2198c/bar%20chart.png)
 
 I also developed an interactive bar chart (using a population dataset) on VizHub to experiment with hover-tooltips and clickable bars:
-👉 Interactive Bar Chart Prototype
+👉 Interactive Bar Chart Prototype.
+My week six sketch is a build-up of what I did in week 5. Two stacked bar charts were developed, and one is clickable. Week six improvement adds 
+to the ineffectiveness of my data development, as can be seen below.
 
 This interaction model will later be applied to BMW sales data (e.g., hovering to see sales volumes, filtering by region or model).
 
