@@ -55,7 +55,7 @@ Customer Preferences – Do features like color, engine size, or price correlate
 Strategic Insights – What lessons can BMW’s marketing team draw from these patterns?
 
 ## Sketches
-
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/sketch%20of%20clickable%20stacked%20barchart.png?raw=true)
 (https://vizhub.com/bsarfo/43162b9dad6b482a9f8481048969f608?file=data.js)
 ## Prototypes
 
