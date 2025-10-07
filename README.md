@@ -82,6 +82,9 @@ https://vizhub.com/bsarfo/55c352b9e2cc4c3682d7c42667d8b47b?file=data.csv&tabs=da
 This interaction model will later be applied to BMW sales data (e.g., hovering to see sales volumes, filtering by region or model).
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/stacked%20bar%20chart%202.png?raw=true)
 https://vizhub.com/bsarfo/50b293e1fb584805808ced58b1025468
+## Progress as at October 7, 2025
+In week 7 I refactored the clickable bar chart by forking it to display a deep blue colour (indicating the area with the highest volume of BMW sales), sea blue (indicating the region with the high volume of sales) and light blue colour indicating the region with the low level of sales. this is shown in this link https://vizhub.com/bsarfo/6b50aa9a3e194e9080a0f1b1fe1d8e47
+In other to let viewers get a better picture of how the sales really affect management decision as to where to increase production. I forked the bar chart using the assistance of AI to depict these BMW Sales Volume on the world map. I used Ai because I had difficulty using week 7 lecture approach. But it turned out to be great. Attached is the link. https://vizhub.com/bsarfo/6b50aa9a3e194e9080a0f1b1fe1d8e47
 ## Open Questions
 
 I am confident about the direction of the project, but I do have a few concerns. Since the dataset is synthetic, I’m not sure how realistic some fields (like mileage or sales classification) are, which may affect the authenticity of insights. I also want to explore regional differences, but I may not have access to detailed geographic shapes or data for mapping. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
