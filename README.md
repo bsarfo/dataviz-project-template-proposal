@@ -106,6 +106,7 @@ So in week 10
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/e3f6865d036f652a23ee4561b77170a898ea1a84/SALES%20VOLUME%20BY%20COUNTRIES%20LINE%20CHART.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/9b82dff8e475a15218e6a659187f9484bf7f280c/TOP%2010%20SELLING%20MODELS%20and%20Regional%20sales%20distribution.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/43cbf99b5b9e7239992f0b893ca22cdc37d92ae2/sales%20by%20fuel%20and%20yearly%20sales%20trend.png)
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/bd7a3d9a543b8aa2c27e6b479b59b1318daf99eb/KEY%20FINDINGS.png)
 
 ## Open Questions
 
