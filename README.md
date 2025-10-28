@@ -103,6 +103,9 @@ https://vizhub.com/bsarfo/de65e41bff6a4c3eba54992b263e1dc9, So, in week 9, I com
 So in week 10 
 
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/4f1fdf1cce5bc2f89a2956bc96ad3bbbfb87629a/BMW%20SALES%20ANALYTICS.png)
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/e3f6865d036f652a23ee4561b77170a898ea1a84/SALES%20VOLUME%20BY%20COUNTRIES%20LINE%20CHART.png)
+
+
 
 ## Open Questions
 
