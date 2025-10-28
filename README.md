@@ -99,6 +99,9 @@ BMW Global Sales Insights (2010 – 2024):
 | **E. Key Takeaways Panel**   | *Text annotations / cards*                  | Synthesize narrative                      | “BMW’s recovery post-COVID was strongest in the U.S. and China; Europe remained stable.” |
 https://vizhub.com/bsarfo/de65e41bff6a4c3eba54992b263e1dc9, So, in week 9, I combine insights into a more cohesive dashboard. Adding annotations and highlighting key findings, which display top-selling models, regional differences and country-specific sales volume
 
+## Week 10
+So in week 10 
+
 ## Open Questions
 
 I am confident about the project's direction, but I do have a few concerns. Since the dataset is synthetic, I’m not sure how realistic some fields (like mileage or sales classification) are, which may affect the authenticity of insights. I also want to explore regional differences, but I may not have access to detailed geographic shapes or data for mapping. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
@@ -113,6 +116,6 @@ Week 315: Develop refined sketches and prototype visualizations. Experiment with
 
 Week 4-7: Introduce interactivity (hover-tooltips, sorting, filtering) using VizHub or D3.js. Connect prototypes to BMW dataset instead of practice data.
 
-Week 9: Combine insights into a more cohesive dashboard. Add annotations and highlight key findings (e.g., top-selling models, regional differences).
+Week 9 -10: Combine insights into a more cohesive dashboard. Add annotations and highlight key findings (e.g., top-selling models, regional differences).
 
-Week 6: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights.
+Week 12: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights.
