@@ -102,9 +102,9 @@ BMW Global Sales Insights (2010 – 2024):
 https://vizhub.com/bsarfo/de65e41bff6a4c3eba54992b263e1dc9, So, in week 9, I combine insights into a more cohesive dashboard. Adding annotations and highlighting key findings, which display top-selling models, regional differences and country-specific sales volume
 
 ## Week 10
-So for week 10 I added an interactive scatter plot to visualize how sales vary from year to year, showing the types of BMW cars with the highest sales across different countries. Each bubble represents a country, with its color indicating the type of cars and its sales volume reflecting popularity. Let the visualisation also include checkbox filters that let users toggle sales on or off, dynamically updating the chart to focus on specific countries.
+So for week 10 I added an interactive scatter plot to visualize how sales vary from year to year, showing the types of BMW cars with the highest sales across different countries. Each bubble represents a country, with its color indicating the type of cars and its sales volume reflecting popularity. The visualisation also includes checkbox filters that let users toggle sales on or off, dynamically updating the chart to focus on specific countries.
 https://vizhub.com/bsarfo/368d3fb0366c4af4bb996f6185e2aa28 
-I also combine insights into a more cohesive dashboard. Adding annotations and highlight key findings, top-selling models, regional differences, total sales volume, average selling price, and yearly sales trend
+I also combine insights into a more cohesive dashboard. Adding annotations and highlighting key findings, top-selling models, regional differences, total sales volume, average selling price, and yearly sales trend
 https://vizhub.com/bsarfo/3b706d93b27048c7a9a72e3df3286b92 
 (https://vizhub.com/bsarfo/552194b3e4e64f9188be2a3e222d5bf0 
 I also added a Bar Chart with Hover of the year with the highest volume of BMW Sales, which was inspired by Prof Curren's week 10 lecture 
