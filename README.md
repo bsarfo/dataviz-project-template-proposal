@@ -107,6 +107,7 @@ https://vizhub.com/bsarfo/368d3fb0366c4af4bb996f6185e2aa28
 I also combine insights into a more cohesive dashboard. Adding annotations and highlighting key findings, top-selling models, regional differences, total sales volume, average selling price, and yearly sales trend
 https://vizhub.com/bsarfo/3b706d93b27048c7a9a72e3df3286b92 
 (https://vizhub.com/bsarfo/552194b3e4e64f9188be2a3e222d5bf0 
+https://vizhub.com/bsarfo/a53951033cae4f9d926d20fae8bc5bba
 I also added a Bar Chart with Hover of the year with the highest volume of BMW Sales, which was inspired by Prof Curren's week 10 lecture 
 https://vizhub.com/bsarfo/3648eb96ce2a43ae9dbdc9aacfa848d1 
 Details shown below
