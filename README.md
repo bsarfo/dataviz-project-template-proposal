@@ -129,6 +129,7 @@ making the stacked bar chart more interactive. making it clickable and adding ho
 Prof Curren's Week 10 notes inspired this.
 Additionally, I created a hoverable, multi-coloured line graph of sales by Region, Similar to a bar chart. I also created a multi-line graph for each country in question, making them hoverable. I also made the BMW sales world map rotatable.
 Attached are detailed links to the weeks notes:
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/b0d96a20964df1772a3a2b582dfdfe1e07d865ad/BMW%20Global%20Sales%20Analytics%20Dashboard.png)
 ![image alt]()
 https://vizhub.com/bsarfo/96ec0b61c2a144858da3b56b129da40f
 https://vizhub.com/bsarfo/755f0398cfad41eb820356c89cacd053
