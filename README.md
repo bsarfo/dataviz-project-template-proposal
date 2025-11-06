@@ -123,6 +123,17 @@ Details shown below
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/43cbf99b5b9e7239992f0b893ca22cdc37d92ae2/sales%20by%20fuel%20and%20yearly%20sales%20trend.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/bd7a3d9a543b8aa2c27e6b479b59b1318daf99eb/KEY%20FINDINGS.png)
 
+## Week 11 task
+In week 11, I made the colour legend display on top of the stacked bar chart, showing the model of BMW cars under consideration,
+making the stacked bar chart more interactive. making it clickable and adding hovers such that when a colour legend is selected all other colors disappear.
+Prof Curren's Week 10 notes inspired this.
+Additionally, I created a hoverable, multi-coloured line graph of sales by Region, Similar to a bar chart. I also created a multi-line graph for each country in question, making them hoverable. I also made the BMW sales world map rotatable.
+Attached are detailed links to the weeks notes:
+![image alt]()
+https://vizhub.com/bsarfo/96ec0b61c2a144858da3b56b129da40f
+https://vizhub.com/bsarfo/755f0398cfad41eb820356c89cacd053
+
+
 ## Open Questions
 
 I am confident about the project's direction, but I do have a few concerns. I want to explore regional differences, but I may not have access to detailed geographic data or maps. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
