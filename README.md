@@ -1,75 +1,55 @@
 # Data Visualization Project
-This project analyses BMW sales data from 2010 to 2024 to uncover sales patterns and customer preferences that can inform both marketing and strategic decision-making. By combining exploratory data analysis with visualisation techniques, I aim to reveal insights about model performance, regional demand, and evolving trends in the automotive market.
+Understanding how sales evolve, across regions, and across product lines is crucial for companies like BMW as they navigate global markets. This project analyzes BMW Sales Data (2010–2024) using interactive, web-based visualizations built in D3.js on VizHub.
+Over twelve weeks, I moved from initial sketches to fully interactive dashboards, experimenting with maps, stacked bar charts, animated scatterplots, and multi-line charts. What began as exploratory practice evolved into a cohesive analytics tool designed to surface meaningful insights for business decision-making.
+This report walks through that journey—from the dataset, to design decisions, to prototypes, to the final dashboard—serving as both documentation and portfolio piece.
 
-This work is part of my data visualisation project, where I will develop prototypes, iterate on sketches, and eventually deliver an interactive visualisation dashboard.
-## Data
-
+## Dataset Overview
 The dataset used is the BMW Sales Data (2010–2024), comprising 50,000 entries. It is provided in CSV format for this course. Comparable public datasets also exist (e.g., BMW Sales 2010–2024 on Kaggle
 ).
-
-Key Fields
-
-Year – Sales year (2010–2024).
-
-Model – Specific BMW model sold.
-
-Region – Geographic sales area (Asia, North America, Africa, Europe, and Middle East).
-
-Color – Vehicle color preference.
-
-Fuel_Type – Petrol, Diesel, Hybrid, etc.
-
-Transmission – Manual vs Automatic.
-
-Engine_Size_L – Engine size in liters.
-
-Mileage_KM – Mileage of the vehicle.
-
-Price_USD – Price of the vehicle in USD.
-
-Sales_Volume – Number of units sold.
-
-Sales_Classification – Sales performance (High or Low).
+Key Fields:
+Year
+Model
+Country / Region
+Color
+Fuel_Type
+Transmission
+Engine_Size_L
+Mileage_KM
+Price_USD
+Sales_Volume
+Sales_Classification
+This diversity enables multi-dimensional insights: trends over time, geographic patterns, product performance, and customer preferences.
 
 ## Data Analysis Plan
-
 Data Cleaning – Address missing values, duplicates, and inconsistencies.
-
 Exploratory Data Analysis (EDA) – Use descriptive statistics and visual summaries to explore trends.
-
 Visualization Prototypes – Apply different techniques (bar charts, line charts, scatter plots, stacked bars) to answer the research questions.
-
 Marketing Insights Extraction – Translate findings into actionable insights for marketing and strategic positioning.
 
 ## Questions & Tasks
-
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-Sales Trends Over Time – How have BMW’s sales volumes evolved between 2010 and 2024?
-
-Model Performance – Which BMW models consistently dominate sales, and how has this changed?
-
-Regional Differences – Which regions prefer which models, and how do fuel types or transmission choices vary geographically?
-
-Customer Preferences – Do features like color, engine size, or price correlate with higher sales?
-
-Strategic Insights – What lessons can BMW’s marketing team draw from these patterns?
+The project explored the following research questions:
+1. Sales Trends Over Time
+How have BMW’s global sales evolved across 15 years?
+2. Model Performance
+Which models dominate? How does their momentum shift?
+3. Regional Differences
+Which countries and regions drive BMW’s sales?
+4. Customer Preferences
+Are characteristics like engine size, price, or color correlated with high sales?
+5. Strategic Implications
+What can marketing managers and production teams learn from these patterns?
 
 ## Sketches
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/sketch%20of%20clickable%20stacked%20barchart.png?raw=true)
 This is a foundational sketch of BMW sales in the major populated countries representing each of the seven continents in the world.
 (https://vizhub.com/bsarfo/43162b9dad6b482a9f8481048969f608?file=data.js)
+
 ## Prototypes
-
 Planned Visualizations for BMW Data
-
 Bar Chart – Top 10 BMW models by sales volume.
-
 Line Chart – Sales trends over time (2010–2024).
-
 Stacked Bar Chart – Sales volume breakdown by region.
-
 Scatter Plot – Engine size vs. price, colored by sales classification.
-
 Interactive Prototype (VizHub)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/c76e550aa59893049b50a2c37985022266f2198c/bar%20chart.png)
 
@@ -134,21 +114,57 @@ Attached are detailed links to the weeks notes:
 https://vizhub.com/bsarfo/96ec0b61c2a144858da3b56b129da40f
 https://vizhub.com/bsarfo/755f0398cfad41eb820356c89cacd053
 
+## Week 12 task
+For this week’s visualization update, I transformed the BMW sales dataset into a fully animated bubble chart that progresses year by year, similar to the dynamic style in my colleague’s volleyball analysis. Each (country, model) combination is now represented by a persistent bubble that smoothly transitions across years, with size mapped to sales volume and a double-ring visual style for clarity. I also added interactive country checkboxes, tooltip enhancements, and a cleaner legend to give users more control and interpretability. Overall, the chart is now more engaging, visually consistent, and analytically insightful compared to previous versions.
+https://vizhub.com/bsarfo/0be35af995e34f408ef5494caf139149
+In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard.
+
+## Final Dashboard: BMW Global Sales Insights (2010–2024)
+The completed dashboard includes:
+A. Overview Panel
+Stacked bar chart showing BMW’s global sales distribution over time.
+B. Regional Trend Lines
+Compare long-term growth across key markets.
+C. Model Leaderboard
+Top-selling models in 2024.
+D. Market Share Snapshot
+Pie or donut chart summarizing regional shares.
+E. Dynamic Scatterplot
+Interactive bubble chart showing model popularity across countries.
+F. Country-Level Line Charts
+Detailed decade-long trend by region and country.
+G. Global Heatmap
+Rotatable world map showing geographic performance.
+
+## Next Steps
+
+If time permits, potential enhancements include:
+1. Animated transitions between dashboard sections
+Switching views smoothly (e.g., bar → map → scatter).
+2. Full map drill-down
+Country → city → dealership → model.
+3. Cross-filtering (Brushing & Linking)
+Clicking a model filters all charts simultaneously.
+4. Predictive Layer
+Adding simple forecasting (e.g., ARIMA, linear regression).
+These are outside the immediate scope but align with real-world BI dashboards.
+
+## Conclusion
+This project reflects a complete journey from exploratory sketches to a multi-layered analytical dashboard. It demonstrates skills in:
+D3.js
+Data cleaning and modeling
+Interaction design
+Visual storytelling
+Iterative design refinement
+The final product serves as a portfolio-quality artifact showcasing both technical and analytical capabilities.
 
 ## Open Questions
-
 I am confident about the project's direction, but I do have a few concerns. I want to explore regional differences, but I may not have access to detailed geographic data or maps. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
 
 ## Milestones
-
 Week 1: Define project scope, document dataset fields, and draft initial research questions. Create first static sketches (bar chart practice with population data).
-
 Week 2-3: Clean and explore the BMW dataset. Generate descriptive statistics and begin simple visualizations (bar chart of top models, line chart of total sales by year).
-
 Week 3-5: Develop refined sketches and prototype visualizations. Experiment with different encodings (colors, labels, highlights) and iterate on clarity.
-
 Week 4-7: Introduce interactivity (hover-tooltips, sorting, filtering) using VizHub or D3.js. Connect prototypes to BMW dataset instead of practice data.
-
 Week 9 -10: Combine insights into a more cohesive dashboard. Add annotations and highlight key findings (e.g., top-selling models, regional differences).
-
 Week 11-12: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights.
