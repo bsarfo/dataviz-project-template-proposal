@@ -1,7 +1,7 @@
 # Data Visualization Project
 Understanding how sales evolve, across regions, and across product lines is crucial for companies like BMW as they navigate global markets. This project analyzes BMW Sales Data (2010–2024) using interactive, web-based visualizations built in D3.js on VizHub.
 Over twelve weeks, I moved from initial sketches to fully interactive dashboards, experimenting with maps, stacked bar charts, animated scatterplots, and multi-line charts. What began as exploratory practice evolved into a cohesive analytics tool designed to surface meaningful insights for business decision-making.
-This report walks through that journey—from the dataset, to design decisions, to prototypes, to the final dashboard—serving as both documentation and portfolio piece.
+This report walks through that journey, from the dataset, to design decisions, to prototypes, to the final dashboard—serving as both documentation and portfolio piece.
 
 ## Dataset Overview
 The dataset used is the BMW Sales Data (2010–2024), comprising 50,000 entries. It is provided in CSV format for this course. Comparable public datasets also exist (e.g., BMW Sales 2010–2024 on Kaggle
@@ -62,14 +62,17 @@ https://vizhub.com/bsarfo/55c352b9e2cc4c3682d7c42667d8b47b?file=data.csv&tabs=da
 This interaction model will later be applied to BMW sales data (e.g., hovering to see sales volumes, filtering by region or model).
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/stacked%20bar%20chart%202.png?raw=true)
 https://vizhub.com/bsarfo/50b293e1fb584805808ced58b1025468
+
 ## Progress as at October 7, 2025
 In week 7 I refactored the clickable bar chart by forking it to display a deep blue colour (indicating the area with the highest volume of BMW sales), sea blue (indicating the region with the high volume of sales) and light blue colour indicating the region with the low level of sales. This is shown in this link https://vizhub.com/bsarfo/6b50aa9a3e194e9080a0f1b1fe1d8e47
 In other to let viewers get a better picture of how the sales really affect management decisions as to where to increase production. I forked the bar chart using the assistance of AI to depict the BMW Sales Volume on the world map. I used AI because I had difficulty using the week 7 lecture approach. But it turned out to be great. Attached is the link: https://vizhub.com/bsarfo/106ca9d49d2b4a45ae0d6ce8abd4ac02
 It turned out that the volume of BMW sales in Asia was the highest, followed by the West and Africa.
+
 ## Progress as at October 22, 2025 (Week 9)
 (1) https://vizhub.com/bsarfo/741f16fb7a044162b742b19542717c23 and (2) https://vizhub.com/bsarfo/831a2e84b63f46b9addde45331ff7490?file=script.js these links display a suggestion from Discord, by Shourya Kasiliwal, who suggested "Refine Region Grouping: You've grouped regions into large continents (Asia, Africa, North America, Europe, South America, Middle East). For real-world business decisions, BMW often focuses on countries (e.g., China, the USA, Germany). If the underlying data allows, a map segmented by major market countries would provide a much more actionable insight for management regarding new plant locations or production increases". This suggestion sounds convincing, and so the data was cleaned to make adjustments for peer suggestions. The results show a visualisation that presents a more actionable insight for stakeholders to make refined decisions.
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/068414d652d344323aa6ff4b6db6bf0356a9afa7/BMW%20SALES%20REGIONAL%20MAP.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/e3c011f44c153e0e09297a1e9cbb6c2a304560b9/W9%20BMW%20CLICKABLE%20STACK%20BAR%20CHART.png)
+
 ## Dashboard:
 BMW Global Sales Insights (2010 – 2024):
 | Section                      | Visualization                               | Purpose                                   | Annotation Example                                                                       |
@@ -96,6 +99,7 @@ Details shown below
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/ccc6895dc7c8d66d11ae69798d72a5c87ddfcbcf/Scatter%20plot%20with%20hover.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/641d0eaf83ced4c6fcd42707ba815178448adf30/Peak%20year%20Bar%20Chart%20with%20Hover.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/32c6f8bbb3dd42829b80076a275607998a1afbf6/Interactive%20Stacked%20Bar%20Chart%20with%20Drop%20down%20menu.png)
+
 ## Week 10 dashboard
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/4f1fdf1cce5bc2f89a2956bc96ad3bbbfb87629a/BMW%20SALES%20ANALYTICS.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/e3f6865d036f652a23ee4561b77170a898ea1a84/SALES%20VOLUME%20BY%20COUNTRIES%20LINE%20CHART.png)
@@ -117,6 +121,7 @@ https://vizhub.com/bsarfo/755f0398cfad41eb820356c89cacd053
 ## Week 12 task
 For this week’s visualization update, I transformed the BMW sales dataset into a fully animated bubble chart that progresses year by year, similar to the dynamic style in my colleague’s volleyball analysis. Each (country, model) combination is now represented by a persistent bubble that smoothly transitions across years, with size mapped to sales volume and a double-ring visual style for clarity. I also added interactive country checkboxes, tooltip enhancements, and a cleaner legend to give users more control and interpretability. Overall, the chart is now more engaging, visually consistent, and analytically insightful compared to previous versions.
 https://vizhub.com/bsarfo/0be35af995e34f408ef5494caf139149
+![image alt]()
 In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard.
 
 ## Final Dashboard: BMW Global Sales Insights (2010–2024)
