@@ -123,9 +123,9 @@ For this week’s visualization update, I transformed the BMW sales dataset into
 https://vizhub.com/bsarfo/0be35af995e34f408ef5494caf139149
 https://vizhub.com/bsarfo/af0bcb685bd3442e9547f3008cff38ff
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/ec711cb069379ef515274277050c2c1c649c23ff/A%20Circle%20Bubble%20of%20BMW%20Sales.png)
-In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard.
+In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard. The attached link is a brief video discription https://youtu.be/dhEVM67VyzQ
 
-## Final Dashboard: BMW Global Sales Insights (2010–2024)
+## Pre-Final Dashboard: BMW Global Sales Insights (2010–2024)
 The completed dashboard includes:
 A. Overview Panel
 Stacked bar chart showing BMW’s global sales distribution over time.
