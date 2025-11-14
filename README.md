@@ -151,7 +151,7 @@ Country → city → dealership → model.
 3. Cross-filtering (Brushing & Linking)
 Clicking a model filters all charts simultaneously.
 4. Predictive Layer
-Adding simple forecasting (e.g., ARIMA, linear regression).
+Adding simple forecasting (ARIMA, linear regression).
 These are outside the immediate scope but align with real-world BI dashboards.
 
 ## Conclusion
