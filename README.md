@@ -121,7 +121,7 @@ https://vizhub.com/bsarfo/755f0398cfad41eb820356c89cacd053
 ## Week 12 task
 For this week’s visualization update, I transformed the BMW sales dataset into a fully animated bubble chart that progresses year by year, similar to the dynamic style in my colleague’s volleyball analysis. Each (country, model) combination is now represented by a persistent bubble that smoothly transitions across years, with size mapped to sales volume and a double-ring visual style for clarity. I also added interactive country checkboxes, tooltip enhancements, and a cleaner legend to give users more control and interpretability. Overall, the chart is now more engaging, visually consistent, and analytically insightful compared to previous versions.
 https://vizhub.com/bsarfo/0be35af995e34f408ef5494caf139149
-![image alt]()
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/ec711cb069379ef515274277050c2c1c649c23ff/A%20Circle%20Bubble%20of%20BMW%20Sales.png)
 In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard.
 
 ## Final Dashboard: BMW Global Sales Insights (2010–2024)
