@@ -134,13 +134,15 @@ Compare long-term growth across key markets.
 C. Model Leaderboard
 Top-selling models in 2024.
 D. Market Share Snapshot
-Pie or donut chart summarizing regional shares.
+Pie or doughnut chart summarising regional shares.
 E. Dynamic Scatterplot
 Interactive bubble chart showing model popularity across countries.
 F. Country-Level Line Charts
 Detailed decade-long trend by region and country.
 G. Global Heatmap
 Rotatable world map showing geographic performance.
+![image alt]()
+https://vizhub.com/bsarfo/a3dcbe93a6f14d63a6a3dc562c149df5
 
 ## Next Steps
 
