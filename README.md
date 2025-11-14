@@ -141,7 +141,7 @@ F. Country-Level Line Charts
 Detailed decade-long trend by region and country.
 G. Global Heatmap
 Rotatable world map showing geographic performance.
-![image alt]()
+<img width="1892" height="651" alt="Image" src="https://github.com/user-attachments/assets/4bd7bbc0-16dd-470f-8895-55d3d06f33f4" />
 https://vizhub.com/bsarfo/a3dcbe93a6f14d63a6a3dc562c149df5
 
 ## Next Steps
