@@ -170,9 +170,9 @@ The final product serves as a portfolio-quality artifact showcasing both technic
 I am confident about the project's direction, but I do have a few concerns. I want to explore regional differences, but I may not have access to detailed geographic data or maps. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
 
 ## Milestones
-Week 1: Define project scope, document dataset fields, and draft initial research questions. Create first static sketches (bar chart practice with population data).
+Week 1: I defined project scope, documented dataset fields, and drafted initial research questions. I then created the first static sketches (bar chart practice with population data).
 Week 2-3: Clean and explore the BMW dataset. Generate descriptive statistics and begin simple visualizations (bar chart of top models, line chart of total sales by year).
 Week 3-5: Develop refined sketches and prototype visualizations. Experiment with different encodings (colors, labels, highlights) and iterate on clarity.
 Week 4-7: Introduce interactivity (hover-tooltips, sorting, filtering) using VizHub or D3.js. Connect prototypes to BMW dataset instead of practice data.
 Week 9 -10: Combine insights into a more cohesive dashboard. Add annotations and highlight key findings (e.g., top-selling models, regional differences).
-Week 11-12: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights.
+Week 11-12: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights. In week 13, I incorporated colleagues' suggestions for improvement, which prompted me to purse the chart height so it could fit more bubbles when it became crowded but after the attempt I realized that it was a great suggestion but that need does not quite fit well with the needs of my dataset. However, I implemented something close by faking the hue to improve on the interactivity.
