@@ -126,6 +126,7 @@ https://vizhub.com/bsarfo/af0bcb685bd3442e9547f3008cff38ff
 In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard. The attached link is a brief video discription https://youtu.be/dhEVM67VyzQ
 
 ## Week 13
+![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/cfed42c805c457319f32d0ddc1b102f9d35378a0/BMW%20SALES%20ANIMATION%2011.21.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/c69c764ea53b8797f14e7dc2cfc3ec1fff3e12de/BMW%20SALES%20DASHBOARD%2011.21.png)
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/BMW%20REGIONAL%20SALES%2011.21.png)
 ![image alt]()
