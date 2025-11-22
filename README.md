@@ -125,6 +125,8 @@ https://vizhub.com/bsarfo/af0bcb685bd3442e9547f3008cff38ff
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/ec711cb069379ef515274277050c2c1c649c23ff/A%20Circle%20Bubble%20of%20BMW%20Sales.png)
 In brief this week, I refined: Colour legend placement, Label clarity, Hover behaviour, Layout and typography for readability, and I also added annotations summarising insights directly in the dashboard. The attached link is a brief video discription https://youtu.be/dhEVM67VyzQ
 
+## Week 13
+https://vizhub.com/bsarfo/54a9fdfc0c2c452bbba8d1bcf280d9e9, https://vizhub.com/bsarfo/8583151136bc41e68febeb7d145e7f48, https://vizhub.com/bsarfo/627bcb7ae3504a4293294cb4398ea382, https://vizhub.com/bsarfo/eb041619509e43038cac046c2fee75c9
 ## Pre-Final Dashboard: BMW Global Sales Insights (2010–2024)
 The completed dashboard includes:
 A. Overview Panel
@@ -175,4 +177,4 @@ Week 2-3: Clean and explore the BMW dataset. Generate descriptive statistics and
 Week 3-5: Develop refined sketches and prototype visualizations. Experiment with different encodings (colors, labels, highlights) and iterate on clarity.
 Week 4-7: Introduce interactivity (hover-tooltips, sorting, filtering) using VizHub or D3.js. Connect prototypes to BMW dataset instead of practice data.
 Week 9 -10: Combine insights into a more cohesive dashboard. Add annotations and highlight key findings (e.g., top-selling models, regional differences).
-Week 11-12: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights. In week 13, I incorporated colleagues' suggestions for improvement, which prompted me to purse the chart height so it could fit more bubbles when it became crowded but after the attempt I realized that it was a great suggestion but that need does not quite fit well with the needs of my dataset. However, I implemented something close by forking the hue to improve on the interactivity.
+Week 11-12: Polish visuals, finalize README writeup, and ensure interactivity works smoothly. Prepare final submission with a clear narrative linking research questions to visualizations and insights. In week 13, I incorporated colleagues' suggestions for improvement, which prompted me to purse the chart height so it could fit more bubbles when it became crowded but after the attempt I realized that it was a great suggestion but that need does not quite fit well with the needs of my dataset. However, I implemented her quest for me to add other layers of visualization. In doing this I refacted a stacked bar chart with movable filters, and made sure all bugs are removed, colors improved and looking more interactive with hovers and bubbles.
